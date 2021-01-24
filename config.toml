@@ -1,0 +1,4 @@
+baseURL = "https://pensive-sammet-17c943.netlify.app/"
+languageCode = "en-us"
+title = "Hugo Codespaces Example"
+theme = "ananke"
